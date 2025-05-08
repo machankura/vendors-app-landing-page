@@ -14,7 +14,7 @@ website_link                              : https://app.vendors.digits.mobi
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Digits for Vendors                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Bitcoin for everyone, everywhere                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Become a Bitcoin vendor in your community. Generate and sell Bitcoin vouchers, earn commission, and process withdrawals easily and securely.
+app_description                           : Become a Bitcoin voucher vendor in your community. Generate and sell Bitcoin vouchers, earn commission, and process withdrawals easily and securely.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -41,24 +41,20 @@ mastodon_link                             :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-  - title                                 : Sell Bitcoin
-    description                           : Become the main vendor of Bitcoin in your community by enabling people to buy Bitcoin from you.
+  - title                                 : Sell Bitcoin Vouchers
+    description                           : Become the main vendor of Bitcoin vouchers in your community by enabling people to buy from you.
     fontawesome_icon_name                 : store
     
   - title                                 : Earn commission
-    description                           : Generate a voucher for Bitcoin, earn commission one each voucher you sell.
+    description                           : Generate a voucher for Bitcoin, earn commission on each voucher you sell.
     fontawesome_icon_name                 : coins
 
   - title                                 : Withdrawals
     description                           : Withdraw commission to your bank account.
     fontawesome_icon_name                 : university
 
-  - title                                 : Remittances
-    description                           : Enable users to send remittances to other countries using Bitcoin.
-    fontawesome_icon_name                 : paper-plane
-
-  - title                                 : Accept payments
-    description                           : Accept Bitcoin for payments and other services.
+  - title                                 : Accept lightning payments
+    description                           : Accept payments for other services.
     fontawesome_icon_name                 : qrcode
 # 
   - title                                 : # Smart App Banner
