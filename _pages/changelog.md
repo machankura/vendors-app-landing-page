@@ -22,13 +22,15 @@ Our app is currently in development and undergoing beta testing. This initial ve
 - Send Bitcoin using Bolt11 invoice and lightning address (lnurl)
 - Accept lightning payments
 - View balance in Satoshis, USD and your local currency
+- Withdraw to a bank account
+- Kiosk mode for store use
 
 #### Known Issues
-- App is currently in alpha testing phase
+- App is currently in beta testing phase
 - Some features may be unstable
-- Limited to invited test users only
+- No pagination for transactions
 
-<be>
+<br>
 
 # **Version 0.0.1**
 Our app is currently in development and undergoing alpha testing. This initial version includes core functionality and basic features that we're testing with a select group of users.
