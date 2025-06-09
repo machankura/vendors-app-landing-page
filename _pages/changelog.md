@@ -9,6 +9,23 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **Version 0.0.3**
+Our app is currently in development and undergoing beta testing. This initial version includes core functionality and features we're testing with a larger group of users.
+
+#### What's New
+- Improved UI 
+- Fix non-South African users ID requirement
+- Send voucher to inbox
+- Add PWA download
+- Improve balance fetching
+
+#### Known Issues
+- App is currently in beta testing phase
+- Some features may be unstable
+- No pagination for transactions
+
+<br>
+
 # **Version 0.0.2**
 Our app is currently in development and undergoing beta testing. This initial version includes core functionality and features we're testing with a larger group of users.
 
