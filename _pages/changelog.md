@@ -6,9 +6,28 @@ include_in_header: true
 
 # Changelog
 
+### `Latest`
+# **Version 0.0.9**
+Our app is currently in development and undergoing beta testing. This initial version includes core functionality and features we're testing with a larger group of users.
+
+#### What's New
+- Improved Onboarding process
+- Introduction of transactional emails
+- Improved voucher sending
+- Add sub user management
+- Show only supported currencies
+- Introduce Send Money (Chessa Intgration)
+- Transactions filtering
+- Introduce NFC functionality
+
+#### Known Issues
+- App is currently in beta testing phase
+- Some features may be unstable
+- No pagination for transactions
+- Non-RSA users registration approval is still manual
+
 <br>
 
-### `Latest`
 # **Version 0.0.3**
 Our app is currently in development and undergoing beta testing. This initial version includes core functionality and features we're testing with a larger group of users.
 
