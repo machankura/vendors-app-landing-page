@@ -14,11 +14,11 @@ Our app is currently in development and undergoing beta testing. This initial ve
 - Improved Onboarding process
 - Introduction of transactional emails
 - Improved voucher sending
-- Add sub user management
+- Sub user management
 - Show only supported currencies
-- Introduce Send Money (Chessa Intgration)
+- Introduce Send Money (Chessa Integration)
 - Transactions filtering
-- Introduce NFC functionality
+- Introduce basic NFC functionality
 
 #### Known Issues
 - App is currently in beta testing phase
