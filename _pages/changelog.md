@@ -7,6 +7,25 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+# **Version 0.6.0**
+Our app is currently in development and undergoing beta testing. This initial version includes core functionality and features we're testing with a larger group of users.
+
+#### What's New
+- Improved Onboarding process
+- Fix manual approval process
+- Fix document upload
+- LNURL support added
+- Complete Kiosk mode
+- Remove phone number requirement
+- Pagination for transactions
+
+#### Known Issues
+- App is currently in beta testing phase
+- Some features may be unstable
+- Non-RSA users registration approval is still manual
+
+<br>
+
 # **Version 0.0.9**
 Our app is currently in development and undergoing beta testing. This initial version includes core functionality and features we're testing with a larger group of users.
 
