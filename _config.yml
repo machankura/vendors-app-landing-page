@@ -59,7 +59,7 @@ features                                  :
 # 
   - title                                 : Send Money
     description                           : Send sats to bank accounts and mobile money accounts in multiple countries.
-    fontawesome_icon_name                 : money-bill-transfer
+    fontawesome_icon_name                 : paper-plane
 # 
   - title                                 : # Social Links
     description                           : # Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
